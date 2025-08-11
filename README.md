@@ -32,5 +32,5 @@ It visualizes sales performance across different categories, regions, and time p
 3. Use slicers to explore the data dynamically.
 
 ---
-**Author:** Shanmukha Rao Sahukari
-**LinkedIn:** https://www.linkedin.com/in/shanmukh-sahukari/
+- **Author:** Shanmukha Rao Sahukari
+- **LinkedIn:** https://www.linkedin.com/in/shanmukh-sahukari/
